@@ -52,4 +52,4 @@ production:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database:[hello-app_development]
+  database:hello-app_production
